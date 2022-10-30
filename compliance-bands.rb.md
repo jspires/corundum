@@ -1,6 +1,6 @@
 ## module CommMandates
 
-This code creates a custom view for Google Charts Line Chart. It takes raw compliance data, determines the range of the data, creates visual thresholds data according to range + compliance mandates, then passes an object to be applied in view template.
+This code creates a custom view for Google Charts Line Chart. It takes raw compliance data, determines the range of the data, creates visual thresholds data according to range + compliance mandates, then returns an object to be applied in view template.
 
 ```ruby
 module CommMandates
